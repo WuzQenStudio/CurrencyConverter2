@@ -1,0 +1,132 @@
+Privacy Policy for Currency Converter & Rates
+
+Effective date: October 7, 2026
+
+This Privacy Policy explains how Currency Converter & Rates (“the App,” “we,” “our,” or “us”) handles information when you use the App.
+
+By installing or using Currency Converter & Rates, you agree to the practices described in this Privacy Policy.
+
+1. Information We Collect
+
+Currency Converter & Rates does not require you to create an account or provide personal information such as your name, address, email address, or payment details.
+
+We do not directly collect, store, sell, or share personal information through the App.
+
+2. Information Stored on Your Device
+
+The App may store the following information locally on your device:
+
+Selected source and destination currencies
+
+Favorite currencies
+
+Conversion history
+
+Cached exchange rates
+
+Date and time of the most recent rate update
+
+Theme preference
+
+Default currency preference
+
+Other basic app settings
+
+This information is stored locally to provide the App’s features and improve your experience. It is not transmitted to us.
+
+You can remove this information by clearing the App’s storage, using the available history-clearing option, or uninstalling the App.
+
+3. Internet Connection and Exchange Rates
+
+The App uses an internet connection to request updated currency exchange rates from an external exchange-rate data provider.
+
+When the App connects to this provider, standard technical information may be processed automatically by the provider, including:
+
+IP address
+
+Device or browser information
+
+Request date and time
+
+Requested currency codes
+
+Basic network information
+
+This information is processed by the exchange-rate provider according to its own privacy practices. We do not use exchange-rate requests to identify individual users.
+
+When an internet connection is unavailable, the App may display exchange rates previously cached on your device.
+
+4. App Permissions
+
+The App may request internet access to download current exchange-rate information.
+
+Currency Converter & Rates does not require access to your contacts, precise location, camera, microphone, photos, messages, call history, or other sensitive device information for its core functionality.
+
+5. Advertising and Analytics
+
+Currency Converter & Rates does not contain third-party advertising.
+
+The App does not use third-party analytics tools to track your behavior across apps or websites.
+
+6. Account Registration and Payments
+
+The App does not require account registration.
+
+The App does not process payments, financial transactions, bank account details, credit card information, or cryptocurrency transactions.
+
+Currency conversions displayed by the App are informational calculations only.
+
+7. Data Sharing and Selling
+
+We do not sell, rent, or trade personal information.
+
+We do not share personal information with advertisers, data brokers, or marketing companies.
+
+Limited technical information may be processed by the exchange-rate service when the App requests updated currency information, as explained in this Privacy Policy.
+
+8. Data Retention and Deletion
+
+Preferences, favorites, cached rates, and conversion history remain stored locally until you:
+
+Delete individual history records
+
+Clear the conversion history
+
+Clear the App’s storage through your device settings
+
+Uninstall the App
+
+Because the App does not require an account and we do not directly store your personal information on our servers, we generally do not possess user data that can be linked to a specific person.
+
+If you have a privacy-related request, you may contact us using the details provided below.
+
+9. Data Security
+
+We use reasonable measures when designing the App to reduce unauthorized access, misuse, or disclosure of information.
+
+However, no internet transmission or electronic storage method can be guaranteed to be completely secure.
+
+10. Children’s Privacy
+
+Currency Converter & Rates is not specifically directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children. If you believe that a child has provided personal information through the App, please contact us so we can investigate and take appropriate action.
+
+11. Currency Information Disclaimer
+
+Exchange rates can change frequently and may differ from rates provided by banks, payment services, card issuers, or currency-exchange businesses.
+
+All exchange rates and conversion results displayed by the App are provided for general informational purposes only. They should not be considered financial, investment, legal, or professional advice.
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy when the App’s features, services, legal requirements, or data practices change.
+
+Any updated version will be published with a revised effective date. We encourage users to review this Privacy Policy periodically.
+
+13. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy, contact us at:
+
+Email: contact@wuzqen.online
+Phone: +44 7460 011288
